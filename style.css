@@ -106,3 +106,6 @@ footer {
     transform: rotate(90deg);
     transition: 500ms; 
 }
+#text_style1:hover {
+    color: floralwhite;
+}
